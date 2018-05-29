@@ -1,0 +1,5 @@
+ if(jQuery("body").hasClass("logged-in")){
+	jQuery("li#menu-item-1853 a").text("Logout");
+	jQuery("li#menu-item-1853 a").attr("href", "https://www.skywardimmigration.com/my-account-2/customer-logout/");
+	}
+  
